@@ -4,7 +4,7 @@ def sumar(a, b):
 #no se si a alguien le sale esto pero definir aquí arriba cada una de vuestras funciones
 
 def main():
-    print("Calculadora en Python")
+    print("Bienvenidos a nuestra calculadora")
     print("1. Sumar")
     print("2. Restar")  
     print("3. Multiplicar")
