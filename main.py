@@ -1,5 +1,7 @@
 def sumar(a, b):
     return a + b
+def restar(a, b):
+    return a - b
 
 #no se si a alguien le sale esto pero definir aquí arriba cada una de vuestras funciones
 
@@ -16,6 +18,10 @@ def main():
 
   if opcion == 1
     print("Resultado:", sumar(num1, num2)")
+
+  elif opcion == 2
+    print("Resultado:", restar(num1, num2)")
+                
   #añadir otras opciones de la calculadora
 
    else:
@@ -23,3 +29,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+            
