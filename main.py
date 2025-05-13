@@ -30,4 +30,6 @@ def main():
 if __name__ == "__main__":
     main()
 
-            
+#no se si a alguien le sale esto pero definir aquí arriba cada una de vuestras funciones
+
+          
