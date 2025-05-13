@@ -2,6 +2,8 @@ def sumar(a, b):
     return a + b
 def restar(a, b):
     return a - b
+def multiplicar(a, b):
+    return a * b
 
 #no se si a alguien le sale esto pero definir aquí arriba cada una de vuestras funciones
 
@@ -21,6 +23,10 @@ def main():
 
   elif opcion == 2
     print("Resultado:", restar(num1, num2)")
+
+  elif opcion == 3
+    print("Resultado:", multiplicar(num1, num2)")
+          
                 
   #añadir otras opciones de la calculadora
 
